@@ -21,6 +21,6 @@ If you use this code and datasets for your research, please consider citing:
 # Contact
 If you have any problem about our code, feel free to contact:
 
-zhangming_0706@163.com
+zhangming_0706@163.com or m.zhang21@aston.ac.uk
 
 or describe your problem in issues
