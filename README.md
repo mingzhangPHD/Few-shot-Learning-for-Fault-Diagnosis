@@ -9,6 +9,8 @@ The paper is as follow:
 
 [Metric-based meta-learning model for few-shot fault diagnosis under multiple limited data conditions](https://doi.org/10.1016/j.ymssp.2020.107510)
 
+About how to use the FSM3, one can see following the [FSM3 link](https://github.com/mingzhangPHD/Few-shot-Learning-for-Fault-Diagnosis/tree/main/FSM3)
+
 # Citation
 
 If you use this code and datasets for your research, please consider citing:
