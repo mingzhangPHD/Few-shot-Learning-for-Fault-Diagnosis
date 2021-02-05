@@ -4,18 +4,17 @@ The detail of FSM3 can be find in the following paper.
 
 The datasets used in this paper will be open soon!
 
+From the paper, one can see there are four scenarios, the first two are for bearing fault and the latter two are for gearbox fault, the detailed information can be found in the paper. So, the codes in this page are split into four files, one can download them and the dataset to understand the proposed algorithm. These codes are implemented by Pytorch.
 
-"run_main_TAN.py" is the main program, you can run this text by:
+Now, I will explain the files in the files. 
+
+- "main.py" is the main program, you can run this text by:
 ```
 python run_main_TAN.py
 ```
-
-or you can change the paremeter and run:
-```
-python run_main_TAN.py --epoch 10000 learning_rate 0.001
-```
-
-
+- "models.py" is the designed model function used in main program;
+- "options.py" has the hyper-parameters and other information like "data path" etc., one can change the parameter here.
+- "backbone.py" defined the FeatureExtractor mapping by neural network. 
 
 
 # Citation
