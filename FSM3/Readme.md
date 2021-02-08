@@ -2,7 +2,7 @@
 The detail of FSM3 can be find in the following paper.
 [Metric-based meta-learning model for few-shot fault diagnosis under multiple limited data conditions](https://doi.org/10.1016/j.ymssp.2020.107510)
 
-The datasets used in this paper will be open soon!
+The datasets used in this paper can be download by the link [Bearing and Gearbox Datasets for Few-shot Learning Fault Diagnosis](https://data.mendeley.com/datasets/2znkfwhzs7/1)
 
 From the paper, one can see there are four scenarios, the first two are for bearing fault and the latter two are for gearbox fault, the detailed information can be found in the paper. So, the codes in this page are split into four files, one can download them and the dataset to understand the proposed algorithm. These codes are implemented by Pytorch.
 
