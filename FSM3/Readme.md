@@ -4,6 +4,14 @@ The detail of FSM3 can be find in the following paper.
 
 The datasets used in this paper can be download by the link [Bearing and Gearbox Datasets for Few-shot Learning Fault Diagnosis](https://data.mendeley.com/datasets/2znkfwhzs7/1)
 
+Generally, anyone could download original CWRU dataset easily. So, I will not provide the link.
+
+The original detial descriptation and information of the PHM2009 Competition can be found the original link is as follow:
+https://phmsociety.org/data-analysis-competition/
+
+If the original data link is unavailable, one can download the original data in the following link:
+https://github.com/mingzhangPHD/Supplementary-Dataset/tree/main/PHM2009%20Gearbox/PHM_Society_2009_Competition_Expanded_txt
+
 From the paper, one can see there are four scenarios, the first two are for bearing fault and the latter two are for gearbox fault, the detailed information can be found in the paper. So, the codes in this page are split into four files, one can download them and the dataset to understand the proposed algorithm. These codes are implemented by Pytorch.
 
 Now, I will explain the files in the files. 
